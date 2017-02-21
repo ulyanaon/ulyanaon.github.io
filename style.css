@@ -171,6 +171,55 @@ a{
     right: 540px;
     top: 4400px;
 	}
+	#footer_1{
+	font-size: 25px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 140px;
+    top: 4200px;
+	}
+	#footer_2{
+	font-size: 25px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 140px;
+    top: 1500px;
+	}
+	#footer_3{
+	font-size: 25px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 140px;
+    top: 4500px;
+	}
+	#footer_4{
+	font-size: 25px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 140px;
+    top: 900px;
+	}
+	
 #links {font-size: 30px;	
 		color: #66544F;
 		font-variant: small-caps;
