@@ -1,0 +1,316 @@
+body{
+	background-color: #FFDED2;
+	font-size: 60px;	
+	color: white;
+	font-style: Cursive;
+}
+h1{
+	font-size: 90px;	
+	color: #59414A;
+	font-variant: small-caps;
+	
+	}
+a{
+	font-size: 50px;	
+	color: #66544F;
+	text-decoration: none;
+	}
+#main { 
+       float:left;
+	   margin-left:150px;
+	   font-variant: small-caps;
+        }
+#text {
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:left;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 600px;
+    top: 350px;
+}
+#text_1 {
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:left;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 600px;
+    top: 450px;
+}
+#text_2 {
+	font-size: 60px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 300px;
+    top: 900px;
+}
+#text_right{
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:right;
+	margin-left:650px;
+	text-align: justify;
+	margin-right: 0 px;
+	position: absolute;
+    right: 60px;
+	top: 950px;
+}
+#text_left{
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:left;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 600px;
+    top: 1550px;
+}
+#text_right_2 {
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:right;
+	margin-left:650px;
+	text-align: justify;
+	margin-right: 0 px;
+	position: absolute;
+    right: 60px;
+	top: 2100px;
+}
+#text_left_2{
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:left;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 600px;
+    top: 2900px;
+}
+#opera{
+	font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 360px;
+    top: 900px;
+}
+#rynok{font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 560px;
+    top: 1600px;
+	}
+#castle{font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 560px;
+    top: 2300px;
+	}
+#dominicana{font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 500px;
+    top: 3000px;
+	}
+#latin{font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 500px;
+    top: 3700px;
+	}
+#palace{font-size: 40px;	
+	color: #66544F;
+	font-variant: small-caps;
+	float:center;
+	margin-left:50px;
+	text-align: justify;
+	margin-right: 1140 px;
+	position: absolute;
+    right: 540px;
+    top: 4400px;
+	}
+#links {font-size: 30px;	
+		color: #66544F;
+		font-variant: small-caps;
+		float:left;
+		margin-left:50px;
+		text-align: justify;
+		margin-right: 1140 px;
+}
+img {
+	position: absolute;
+    left: 800px;
+    top: 300px;
+    z-index: -1;
+}	
+.img-circle {
+    border-radius: 40%;
+	height: 600px;
+    width: 30%;
+}
+a href {
+	font-size: 30px;	
+	color: #66544F;
+	font-variant: small-caps;
+	}
+.old_lviv{
+	position: absolute;
+    left: 760px;
+    top: 330px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 43%;
+}
+.old_lviv_left{
+	position: absolute;
+    left: 20px;
+    top: 900px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 45%;
+}
+.old_lviv_right {
+	position: absolute;
+    left: 760px;
+    top: 1490px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 43%;
+}
+.old_lviv_left_2{
+	position: absolute;
+    left: 20px;
+    top: 2160px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 45%;
+}
+.old_lviv_right_2 {
+	position: absolute;
+    left: 760px;
+    top: 2890px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 43%;
+}
+.old_lviv_panorama{position: absolute;
+    left: 125px;
+	right: 100px;
+    top: 3550px;
+    z-index: -1;
+	height: 600px;
+  }
+.lviv_opera{
+	position: absolute;
+    left: 110px;
+    top: 330px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 85%;
+}
+.rynok{
+position: absolute;
+    left: 110px;
+    top: 1030px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 85%;
+}
+.castle{
+position: absolute;
+    left: 110px;
+    top: 1730px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 85%;
+}
+.dominicana{
+position: absolute;
+    left: 310px;
+    top: 2430px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 55%;
+}
+.latin{
+position: absolute;
+    left: 110px;
+    top: 3130px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 85%;
+}
+.palace{
+position: absolute;
+    left: 110px;
+    top: 3830px;
+    z-index: -1;
+	border-radius: 50%;
+	height: 600px;
+    width: 85%;
+}
+.ulyana {
+    border-radius: 40%;
+	height: 600px;
+    width: 30%;
+	top: 330px;
+}
+.lviv_3{position: absolute;
+    left: 25px;
+	right: 100px;
+    top: 1050px;
+    z-index: -1;
+	height: 450px;
+  }
